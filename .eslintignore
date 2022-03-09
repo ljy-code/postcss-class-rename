@@ -1,0 +1,13 @@
+*.sh
+*.md
+.vscode
+.idea
+.husky
+.local
+/build
+src/assets
+dist
+/public
+/bin
+/docs
+Dockerfile

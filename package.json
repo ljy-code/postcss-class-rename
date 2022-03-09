@@ -1,0 +1,33 @@
+{
+  "name": "@ljy-code/postcss-class-rename",
+  "version": "0.0.1",
+  "description": "PostCSS plugin simply rename class without hassle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljy-code/postcss-class-rename.git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugins",
+    "postcss-plugin",
+    "class-rename",
+    "rename"
+  ],
+  "author": "ljy-code <ljy910626@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljy-code/postcss-class-rename/issues"
+  },
+  "homepage": "https://github.com/ljy-code/postcss-class-rename#readme",
+  "devDependencies": {
+    "@ljy-code/eslint-config": "^0.1.4",
+    "postcss": "^8.4.5"
+  },
+  "peerDependencies": {
+    "postcss": "^8.4.5"
+  }
+}
